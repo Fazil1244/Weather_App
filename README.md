@@ -1,4 +1,4 @@
-🌤 Streamlit Weather App
+# 🌤 Streamlit Weather App
 python project
 
 The provided Python script is a Streamlit application designed to fetch and display weather information for a specified city. Here’s a detailed description of how the program works:
